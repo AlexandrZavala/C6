@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace CsPractice6
+namespace C6
 {
     class TeamFight
     {

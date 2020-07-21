@@ -1,4 +1,4 @@
-﻿namespace CsPractice6
+﻿namespace C6
 {
     class Program
     {
@@ -7,5 +7,6 @@
             TeamFight teams = new TeamFight();
             teams.StartBattle();
         }
+
     }
 }
